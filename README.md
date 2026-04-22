@@ -55,4 +55,4 @@ Update database credentials in `conn.php` before running.
 
 ## 👨‍💻 Author
 
-Your Name
+Manasa KB
