@@ -56,3 +56,4 @@ Update database credentials in `conn.php` before running.
 ## 👨‍💻 Author
 
 Manasa KB
+(For reference how the website will look open images folder there i have shared screenshots)
